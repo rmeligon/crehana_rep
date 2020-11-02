@@ -18,8 +18,6 @@ otro cambio de readme
 cambio añadido
 otro camvio22155c3
 
-Cambio introducido desde githup
-
 Segundo cambio incluido en el archivo
 
 
